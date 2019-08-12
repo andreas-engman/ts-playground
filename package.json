@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/andreas-engman/ts-playground#readme",
   "devDependencies": {
-    "@nestjs/cli": "^6.6.3",
-    "nestjs": "0.0.1"
+    "@nestjs/cli": "^6.6.3"
+  },
+  "dependencies": {
+    "@nestjs/common": "^6.5.3",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^6.5.2"
   }
 }
