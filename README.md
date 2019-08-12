@@ -1,2 +1,3 @@
 # ts-playground
-Playground
+
+My playground for typescript

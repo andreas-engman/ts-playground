@@ -1,0 +1,23 @@
+{
+  "name": "ts-playground",
+  "version": "1.0.0",
+  "description": "My playground for typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreas-engman/ts-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreas-engman/ts-playground/issues"
+  },
+  "homepage": "https://github.com/andreas-engman/ts-playground#readme",
+  "devDependencies": {
+    "@nestjs/cli": "^6.6.3",
+    "nestjs": "0.0.1"
+  }
+}
